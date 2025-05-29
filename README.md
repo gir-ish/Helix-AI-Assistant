@@ -53,5 +53,5 @@ Access the live Helix applications here:
 
 1. **Clone**  
    ```bash
-   git clone https://github.com/voice-chat-agent
+   git clone https://github.com/voice-chat-agent/WhatsApp-bot
    cd voice-chat-agent
