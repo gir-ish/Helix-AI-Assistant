@@ -27,9 +27,9 @@ Experience Helix in action! Watch the concise walkthrough below:
 
 <video width="720" controls>
   <source src="v1.mp4" type="video/mp4">
-  Your browser does not support HTML5 video.
+  Your browser does not support the video tag.  
+  [Click here to download and watch the demo video](v1.mp4).
 </video>
-
 > **Tip:** Host this file in your `docs/video/` folder or replace the `src` with your public video URL.
 
 ---
