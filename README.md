@@ -21,27 +21,16 @@ Helix is a next-generation virtual call-center solution, harnessing agentic AI a
 
 ---
 
-## 🎥 Live Demo
+## 🚀 Live Deployments
 
-> Click the thumbnail below to watch a brief walkthrough of Helix in action.
-
-[![Helix Demo](docs/video/demo_thumbnail.png)](v1.mp4)
-
-> Alternatively, you can **[play the demo video directly](v1.mp4)**.
-
-**Instructions:**  
-1. Place your thumbnail image at `docs/video/demo_thumbnail.png` (a frame-grab from the video).  
-2. Place your video file at the repo root as `v1.mp4`.  
-3. Clicking the thumbnail or link will launch GitHub’s native player for `v1.mp4`.
-
----
-
-## 🚀 Quick Links
+Access the live Helix applications here:
 
 - **Doctor Login Portal**  
   https://aimshelix.ownbizaccount.com/doctor_login.html  
+
 - **Client Dashboard**  
   https://helixclient.ownbizaccount.com/  
+
 - **Admin Portal**  
   https://helix.ownbizaccount.com/  
 
