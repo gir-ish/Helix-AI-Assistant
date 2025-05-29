@@ -1,74 +1,66 @@
-# Helix: An AI Assistant
+# Helix: An AI Assistant 🤖
 
-**Helix** is a smart, scalable virtual call-center solution powered by agentic AI and advanced Natural Language Processing. It delivers 24/7, personalized customer engagement across multiple channels—voice, WhatsApp, and web chat—while seamlessly integrating business-specific data via Retrieval-Augmented Generation (RAG) and open-source LLMs.
+Helix is a next-generation virtual call-center solution, harnessing agentic AI and advanced NLP to deliver 24/7 personalized support across voice, WhatsApp, and web chat. By integrating your business knowledge via Retrieval-Augmented Generation (RAG) and open-source LLMs, Helix adapts seamlessly to your brand’s tone, handles appointments and orders, and provides real-time analytics—all within a secure, scalable architecture.
 
 ---
 
-## Key Features
+## ✨ Core Highlights
 
-- **Multi-Channel Communication**  
-  Voice calls (via Twilio), WhatsApp Business API, and web chat for a consistent user experience.
-- **Retrieval-Augmented Generation (RAG)**  
-  Dynamic retrieval of business knowledge (FAQs, documents) from Pinecone vector store to ground responses.
+- **Omni-Channel Engagement**  
+  Integrates Twilio voice calls, WhatsApp Business API, and web chat for a unified customer journey.  
+- **Knowledge-Grounded AI (RAG)**  
+  Pulls from your FAQ/KB documents in Pinecone to produce accurate, context-aware responses.  
 - **Custom AI Personas**  
-  Business-specific persona configuration (tone, greeting, closing templates).
-- **Appointment & Order Processing**  
-  Real-time scheduling and order management through REST API integration.
-- **Admin Dashboard**  
-  React-based UI for business setup, analytics (interaction logs, conversion metrics), and monitoring.
-- **Scalable & Secure Architecture**  
-  FastAPI backend, MongoDB Atlas for structured data, Pinecone for vector searches, RBAC authentication, and TLS encryption.
+  Define greetings, tone, and signature messages that reflect your brand identity.  
+- **Automated Scheduling & Orders**  
+  Link directly to your REST API for real-time booking, cancellations, and order tracking.  
+- **Interactive Dashboards**  
+  Monitor usage, success metrics, and conversation logs through a sleek React admin portal.  
+- **Robust & Secure**  
+  FastAPI backend, MongoDB Atlas, Pinecone vector search, RBAC auth, and end-to-end TLS encryption.
 
 ---
 
-## Media
+## 🎥 Live Demo
 
-### Screenshots
+Experience Helix in action! Watch the concise walkthrough below:
 
-<p align="center">
-  <img src="docs/images/doctor_login.png" alt="Doctor Login Portal" width="400" />
-  <img src="docs/images/client_dashboard.png" alt="Client Dashboard" width="400" />
-</p>
-
-### Demo Video
-
-<video width="800" controls>
-  <source src="docs/videos/helix_demo.mp4" type="video/mp4">
+<video width="720" controls>
+  <source src="v1.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video>
 
-*Alternatively, link to a hosted video (YouTube, Vimeo):*
-
-[![Watch the Helix Demo](docs/images/demo_thumbnail.png)](https://youtu.be/your-demo-video)
+> **Tip:** Host this file in your `docs/video/` folder or replace the `src` with your public video URL.
 
 ---
 
-## Architecture & Tech Stack
+## 🚀 Quick Links
 
-- **Frontend:** React.js, Material UI, Tailwind CSS  
-- **Backend:** FastAPI (Python), Uvicorn  
-- **Databases:**  
-  - MongoDB Atlas for user/session/appointment data  
-  - Pinecone for vector embeddings supporting RAG  
-- **AI/ML Layer:** Open-source LLMs, LangChain, Retrieval-Augmented Generation  
-- **Communication APIs:** Twilio (voice), WhatsApp Business API  
-
----
-
-## Quick Links
-
-- **Doctor Login Portal:**  
+- **Doctor Login Portal**  
   https://aimshelix.ownbizaccount.com/doctor_login.html  
-- **Client Dashboard:**  
+- **Client Dashboard**  
   https://helixclient.ownbizaccount.com/  
-- **Admin Portal:**  
+- **Admin Portal**  
   https://helix.ownbizaccount.com/  
 
 ---
 
-## Getting Started
+## 🛠️ Tech Stack & Architecture
 
-1. **Clone the repository**  
+| Layer            | Technology                                    |
+| ---------------- | --------------------------------------------- |
+| **Frontend**     | React.js • Tailwind CSS • Material UI         |
+| **Backend**      | FastAPI • Uvicorn (Python)                    |
+| **Databases**    | MongoDB Atlas • Pinecone Vector Store         |
+| **AI / ML**      | LangChain • Open-Source LLMs • RAG Pipelines   |
+| **Comm. APIs**   | Twilio Voice • WhatsApp Business API          |
+| **Security**     | RBAC • TLS Encryption                         |
+
+---
+
+## ⚙️ Getting Started
+
+1. **Clone**  
    ```bash
    git clone https://github.com/your-org/helix-ai-assistant.git
    cd helix-ai-assistant
