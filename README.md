@@ -23,13 +23,16 @@ Helix is a next-generation virtual call-center solution, harnessing agentic AI a
 
 ## 🎥 Live Demo
 
-Experience Helix in action! Watch the concise walkthrough below:
+> Click the thumbnail below to watch a brief walkthrough of Helix in action.
 
-<video width="720" controls>
-  <source src="v1.mp4" type="video/mp4">
-  Your browser does not support the video tag.  
-  [Click here to download and watch the demo video](v1.mp4).
-</video>
+[![Helix Demo](docs/video/demo_thumbnail.png)](v1.mp4)
+
+> Alternatively, you can **[play the demo video directly](v1.mp4)**.
+
+**Instructions:**  
+1. Place your thumbnail image at `docs/video/demo_thumbnail.png` (a frame-grab from the video).  
+2. Place your video file at the repo root as `v1.mp4`.  
+3. Clicking the thumbnail or link will launch GitHub’s native player for `v1.mp4`.
 
 ---
 
