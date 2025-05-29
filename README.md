@@ -30,7 +30,6 @@ Experience Helix in action! Watch the concise walkthrough below:
   Your browser does not support the video tag.  
   [Click here to download and watch the demo video](v1.mp4).
 </video>
-> **Tip:** Host this file in your `docs/video/` folder or replace the `src` with your public video URL.
 
 ---
 
