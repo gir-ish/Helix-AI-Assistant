@@ -53,5 +53,5 @@ Access the live Helix applications here:
 
 1. **Clone**  
    ```bash
-   git clone https://github.com/your-org/helix-ai-assistant.git
-   cd helix-ai-assistant
+   git clone https://github.com/voice-chat-agent
+   cd voice-chat-agent
