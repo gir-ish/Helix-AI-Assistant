@@ -5,7 +5,8 @@ Helix is a next-generation virtual call-center solution, harnessing agentic AI a
 ---
 
 ##
-[![▶️ Watch the demo](./Screenshot%202025-06-25%20193713.png)](./whatsapp-bot.mp4)
+## ▶️ Watch the demo
+[![](./Screenshot%202025-06-25%20193713.png)](./whatsapp-bot.mp4)
 ## ✨ Core Highlights
 
 - **Omni-Channel Engagement**  
