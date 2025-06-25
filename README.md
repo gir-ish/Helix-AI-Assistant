@@ -3,10 +3,9 @@
 Helix is a next-generation virtual call-center solution, harnessing agentic AI and advanced NLP to deliver 24/7 personalized support across voice, WhatsApp, and web chat. By integrating your business knowledge via Retrieval-Augmented Generation (RAG) and open-source LLMs, Helix adapts seamlessly to your brand’s tone, handles appointments and orders, and provides real-time analytics—all within a secure, scalable architecture.
 
 ---
-## 🎬 Demo Video
 
-[▶️ Watch WhatsApp Bot Demo](./whatsapp-bot.mp4)
-[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](./whatsapp-bot.mp4)
+##
+[![▶️ Watch the demo](./upeslogo.png)](./whatsapp-bot.mp4)
 ## ✨ Core Highlights
 
 - **Omni-Channel Engagement**  
